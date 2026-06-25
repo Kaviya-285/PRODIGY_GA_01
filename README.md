@@ -52,8 +52,8 @@ Modify the text variable in the dataset cell to use your own text if desired
 📚 References
 
 
-How to Generate Text — Hugging Face Blog
-aitextgen — Train a GPT-2 Model w/ GPU
+How to Generate Text — [Hugging Face Blog](https://huggingface.co/blog/how-to-generate)
+aitextgen — [Train a GPT-2 Model w/ GPU](https://colab.research.google.com/drive/15qBZx5y9rdaQSyWpsreMDnTiZ5IlN0zD?usp=sharing)
 
 
 Part of the Generative AI Internship Program — Prodigy InfoTech
